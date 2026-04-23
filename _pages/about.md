@@ -25,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Master's student in ECE at Georgia Tech, where I work as a Graduate Research Assistant at the Safe Robotics Lab. My research interests lie at the intersection of safe autonomy, motion planning and control, and reinforcement learning. I'm particularly interested in building learning-based systems that can act safely and adaptively in human environments.
+I'm a Master's student in ECE at Georgia Tech, where I work as a Graduate Research Assistant at the [Safe Robotics Lab](https://saferoboticslab.me.gatech.edu/), advised by [Dr. Shreyas Kousik](https://www.shreyaskousik.com/). My research interests lie at the intersection of safe autonomy, motion planning and control, and reinforcement learning. I'm particularly interested in building learning-based systems that can act safely and adaptively in human environments.
