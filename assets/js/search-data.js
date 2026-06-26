@@ -24,8 +24,8 @@ ninja.data = [{
             window.location.href = "/repositories/";
           },
         },{id: "nav-resume",
-          title: "Resume",
-          description: "My current resume.",
+          title: "resume",
+          description: "My latest resume is available below.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/resume/";
