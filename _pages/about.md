@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master's Student @ Georgia Institute of Technology
+subtitle: Robotics & Safe Autonomy Engineer
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Atlanta, GA</p>
+  # more_info: >
+  #  <p>Atlanta, GA</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,4 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Master's student in ECE at Georgia Tech, where I work as a Graduate Research Assistant at the [Safe Robotics Lab](https://saferoboticslab.me.gatech.edu/), advised by [Dr. Shreyas Kousik](https://www.shreyaskousik.com/). My research interests lie at the intersection of safe autonomy, motion planning and control, and reinforcement learning. I'm particularly interested in building learning-based systems that can act safely and adaptively in human environments.
+I'm a robotics engineer interested in safe autonomy, motion planning and control, and reinforcement learning. I currently work at [Eureka Robotics](https://www.eurekarobotics.com/) as a Robotics Application Engineer, where I focus on deploying robotic automation systems for real-world industrial applications.
+
+I received my B.S. and M.S. in ECE from Georgia Tech, where I worked as a Graduate Research Assistant at the [Safe Robotics Lab](https://saferoboticslab.me.gatech.edu/), advised by [Dr. Shreyas Kousik](https://www.shreyaskousik.com/). My research interests lie at the intersection of learning-based control, assistive autonomy, and safe robotic systems. I'm particularly interested in building robotic systems that are reliable, interpretable, and deployable in real-world environments.
+
